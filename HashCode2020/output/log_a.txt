@@ -1,0 +1,25 @@
+ScanDay Left: 7
+Library Id: 0
+Library Priority: 0,0008500000000000001
+Library Sign Up Time: 2
+Library Scan Capacity: 2
+Max BookNumber that can be processed: 10
+Processed Book Id: 3
+Total Score: 6
+Processed Book Id: 4
+Total Score: 11
+Processed Book Id: 2
+Total Score: 14
+Processed Book Id: 1
+Total Score: 16
+Processed Book Id: 0
+Total Score: 17
+ScanDay Left: 5
+Library Id: 1
+Library Priority: 0,00023333333333333333
+Library Sign Up Time: 3
+Library Scan Capacity: 1
+Max BookNumber that can be processed: 2
+Processed Book Id: 5
+Total Score: 21
+Total Score:  21
